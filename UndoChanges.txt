@@ -4,3 +4,6 @@ who takes away pride of enemies.
 who is favourable to his devotees, who is the root (cause) of this tree like world
 who ends the suffering of life
 I worship that Sri Hari always
+
+git reset HEAD^^ (HEAD~2)git reset HEAD^^ (HEAD~2)
+git reset HEAD^^ (HEAD~2)git reset HEAD^^ (HEAD~2)
